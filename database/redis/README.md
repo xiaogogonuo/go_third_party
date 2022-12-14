@@ -221,14 +221,14 @@ docker run -p 6382:6379 --name redis-3 -v ~/Documents/opt/redis/cluster/node3/da
 --save 60 1 --loglevel warning
 ```
 
-• [Docker command line](https://docs.docker.com/engine/reference/commandline/run/)
+* [Docker command line](https://docs.docker.com/engine/reference/commandline/run/)
 
-• [Docker安装redis（单机、主从、哨兵、集群）](https://blog.csdn.net/u010148813/article/details/128099031)
-• [docker安装redis并搭建集群](https://blog.csdn.net/qq_38327769/article/details/124063769)
-• [Docker搭建redis集群](https://blog.csdn.net/emgexgb_sef/article/details/126327579)
+* [Docker安装redis（单机、主从、哨兵、集群）](https://blog.csdn.net/u010148813/article/details/128099031)
+* [docker安装redis并搭建集群](https://blog.csdn.net/qq_38327769/article/details/124063769)
+* [Docker搭建redis集群](https://blog.csdn.net/emgexgb_sef/article/details/126327579)
 
-• [Redis后台运行配置](https://www.cnblogs.com/s1mmons/p/16626299.html)
-• [redis主要启动主要参数与配置文件说明](https://article.itxueyuan.com/pW0AO)
+* [Redis后台运行配置](https://www.cnblogs.com/s1mmons/p/16626299.html)
+* [redis主要启动主要参数与配置文件说明](https://article.itxueyuan.com/pW0AO)
 
-• [golang连接redis集群遇见的坑](https://blog.csdn.net/weixin_42854904/article/details/124990524)
-• [使用 go-redis 连接 Amazon ElastiCache for Redis 集群](https://aws.amazon.com/cn/blogs/china/all-roads-lead-to-rome-use-go-redis-to-connect-amazon-elasticache-for-redis-cluster/)
+* [golang连接redis集群遇见的坑](https://blog.csdn.net/weixin_42854904/article/details/124990524)
+* [使用 go-redis 连接 Amazon ElastiCache for Redis 集群](https://aws.amazon.com/cn/blogs/china/all-roads-lead-to-rome-use-go-redis-to-connect-amazon-elasticache-for-redis-cluster/)
